@@ -4,7 +4,7 @@
   "description": "A quick shortcut to send files to OCC via DCU command.",
   "version": "0.0.1",
   "icon": "./resources/icon.png", 
-  "publisher": "Clemerson Pessalli",
+  "publisher": "ClemersonPessalli",
   "author": {
     "name": "Clemerson Pessalli",
     "email": "clemersonpessalli@gmail.com"
